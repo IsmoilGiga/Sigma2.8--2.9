@@ -138,6 +138,10 @@ footer ul a {
     color: black;
 }
 
+footer ul i{
+    color: black;
+}
+
 @keyframes slideX {
     from {
         transform: translateX(-110vh);
