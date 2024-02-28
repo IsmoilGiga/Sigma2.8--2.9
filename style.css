@@ -140,6 +140,7 @@ footer ul a {
 
 footer ul i{
     color: black;
+    font-size: 20px;
 }
 
 @keyframes slideX {
