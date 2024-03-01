@@ -143,6 +143,79 @@ footer ul i{
     font-size: 20px;
 }
 
+.col-sec1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.col-sec2{
+    background: rgba(201, 155, 103, 1);
+    height: 510px;
+}
+
+.col-sec2 .container .text2 h2{
+    font-size: 50px;
+    color: white;
+}
+
+.col-sec2 .container .text2 p{
+    font-size: 18px;
+    color: white;
+    line-height: 30px;
+}
+
+.collection1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.collection1 .img2{
+  position: absolute;
+  right: 70px;
+  top: 1150px;
+}
+
+
+.col-sec1 .container .collection1 .text1 h2{
+    font-size: 48px;
+}
+
+.col-sec1 .container .collection1 .text1 p{
+    font-size: 18px;
+    line-height: 30px
+}
+
+
+.intro1 {
+    background-color: #F3D7B7;
+}
+
+.intro1 .container {
+    display: flex;
+}
+
+.intro1-img {
+    position: relative;
+    top: -150px;
+    left: 100px;
+}
+
+
+.intro1 .left h1 {
+    font-size: 64px;
+}
+
+.intro1 .left p {
+    line-height: 16px;
+    margin-bottom: 50px;
+}
+
+
+.intro1 .right {
+    height: px;
+}
+
+
 @keyframes slideX {
     from {
         transform: translateX(-110vh);
